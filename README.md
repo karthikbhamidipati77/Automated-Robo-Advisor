@@ -1,4 +1,4 @@
-#Fin-Tech
+# Fin-Tech
 # Automated-Robo-Advisor
 
 Robo-advisors can help put your money to work so you don’t have to.
